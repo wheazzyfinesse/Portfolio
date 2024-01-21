@@ -57,7 +57,7 @@ const Footer = () => {
 				</div>
 
 				<span className="footer__copy">
-					&#169; Finesse. All rigths reserved
+					&#169; techinesse. All rights reserved
 				</span>
 			</div>
 		</footer>
