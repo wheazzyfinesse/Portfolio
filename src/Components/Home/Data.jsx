@@ -57,7 +57,7 @@ const Data = () => {
 			</h1>
 			<h3 className="home__subtitle">Developer | Designer</h3>
 			<p className="home__description">
-				I'm a creative designer, a freelancer based in Zaragoza, and I'm very
+				I'm a creative designer, a freelancer, a developer and thoughtful person and I'm very
 				passionate and dedicated to my work.
 			</p>
 			<a href="#contact" className="button button--flex">
